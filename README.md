@@ -1,4 +1,4 @@
-# Git Lab Assignment --Finished! [![BuildStatus](https://travis-ci.org/slackboxster/git-lab-assignment.svg?branch=master)](https://travis-ci.org/slackboxster/git-lab-assignment)
+# Git Lab Assignment --Finished! [![BuildStatus](https://travis-ci.org/ShatteredArrow/git-lab-assignment.svg?branch=master)](https://travis-ci.org/ShatteredArrow/git-lab-assignment)
 
 This assignment will give you a chance to apply your git skills and stretch
 them a good deal. It is based on the [ChurchConnect Mobile
